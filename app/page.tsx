@@ -80,7 +80,7 @@ export default function Home() {
     "F": 325
 },])
 
-let filterd = sample
+const filterd = sample
 
 
 useEffect(() => {
