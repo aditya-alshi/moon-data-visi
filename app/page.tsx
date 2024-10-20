@@ -43,7 +43,7 @@ export default function Home() {
   // const p:number[] = [];
  
 
-  let [sample, setSample] = useState([{
+  const [sample, setSample] = useState([{
     "id": 1,
     "Day": "2022-10-03T18:30:00.000Z",
     "Age": "15-25",
